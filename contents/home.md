@@ -1,17 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![晨殇主页](https://img.shields.io/badge/ChenChen-Homepage-purple?logo=googlechrome&labelColor=black&style=for-the-badge)](https://github.com/chenn114)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+
+A normal guy who wants to do something cool.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Ciallo.0721.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Electronic Information Engineering, ShenZhen University, 2023—2027.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Science, Artificial Intelligence, Software Testing.
+
+### Hobby
+Animation, Movie, FPS, Galgame. 
 
